@@ -47,7 +47,3 @@ The `Kubernetes-Manifests-Files` directory holds Kubernetes manifests for deploy
 📈 **The journey covered everything from setting up tools to deploying a Three-Tier app, ensuring data persistence, and implementing CI/CD pipelines.**
 
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-Happy Coding! 🚀
